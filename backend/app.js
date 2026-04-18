@@ -12,7 +12,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
 
 app.use(cors({
-  origin: "https://reuse-bharat.vercel.app",
+  origin: "http://localhost:5173",
   credentials: true
 }))
 app.use(express.json());
