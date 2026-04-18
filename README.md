@@ -1,17 +1,17 @@
 # Reuse Bharat
 
-<p align="center">
-  <strong>A blockchain-powered circular economy platform connecting surplus resources with those in need</strong>
-</p>
+## Overview  
+Reuse Bharat is a unified platform designed to reduce resource wastage in India by connecting surplus food, educational materials, and near-expiry medicines with those in need. The platform builds a circular economy through real-time coordination, verified networks, and transparent systems powered by Web2 and Web3 technologies.
 
-<p align="center">
-  <a href="https://celoscan.io/sepolia/address/0x0f4A570a593F27Fa78Bf09F4F0301Ae41c4ee075">
-    <img src="https://img.shields.io/badge/Contract-0x0f4A570a593F27Fa78Bf09F4F0301Ae41c4ee075-blue" alt="Contract">
-  </a>
-  <img src="https://img.shields.io/badge/Network-Celo%20Sepolia-green" alt="Network">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
-</p>
+---
 
+## Problem Statement  
+India wastes approximately 78–80 million tonnes of food annually, generates around 484 tonnes of biomedical waste daily, and has over 40 million college students leading to large volumes of unused educational resources, while nearly 194 million people remain undernourished. The core issue is the lack of real-time coordination and trust between surplus and demand.
+
+---
+
+## Solution  
+Reuse Bharat provides a single ecosystem that enables efficient redistribution of resources across food, education, and healthcare, ensuring surplus resources reach the right people at the right time.
 ---
 
 ## Table of Contents
