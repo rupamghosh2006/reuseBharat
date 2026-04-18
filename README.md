@@ -6,6 +6,7 @@ Reuse Bharat is a unified platform designed to reduce resource wastage in India 
 ---
 
 ## Problem Statement  
+PS: 10 OPEN INNOVATION:
 India wastes approximately 78–80 million tonnes of food annually, generates around 484 tonnes of biomedical waste daily, and has over 40 million college students leading to large volumes of unused educational resources, while nearly 194 million people remain undernourished. The core issue is the lack of real-time coordination and trust between surplus and demand.
 
 ---
