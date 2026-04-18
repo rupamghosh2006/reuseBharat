@@ -13,6 +13,8 @@ India wastes approximately 78–80 million tonnes of food annually, generates ar
 ## Solution  
 Reuse Bharat provides a single ecosystem that enables efficient redistribution of resources across food, education, and healthcare, ensuring surplus resources reach the right people at the right time.
 ---
+## Deployed Link:
+https://reuse-bharat.vercel.app/
 
 ## Table of Contents
 
