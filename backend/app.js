@@ -11,8 +11,21 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const app = express();
 
+const allowedOrigins = [
+  'http://localhost:5173',
+  'http://localhost:3000',
+  'https://reuse-bharat.vercel.app',
+  'https://reuse-bharat-git-main-rupamghosh2006.vercel.app'
+];
+
 app.use(cors({
-  origin: "http://localhost:5173",
+  origin: function(origin, callback) {
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
   credentials: true
 }))
 app.use(express.json());
