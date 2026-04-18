@@ -160,7 +160,7 @@ function getItem(itemId) → Item
 |---------|-----------------|-------------------|
 | Celo Sepolia | `0x0f4A570a593F27Fa78Bf09F4F0301Ae41c4ee075` | `0x6f32f09731824a135b3cff6d7bea7440344e9f362e596ebe2ebdd0534e2e1029` |
 
-**Explorer**: [Celo Sepolia Explorer](https://celoscan.io/sepolia/address/0x0f4A570a593F27Fa78Bf09F4F0301Ae41c4ee075)
+**Explorer**: [Celo Sepolia Explorer](https://sepolia.celoscan.io/address/0x0f4A570a593F27Fa78Bf09F4F0301Ae41c4ee075)
 
 ## Project Structure
 
